@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>osgiAssignment</name>
+=======
+	<name>printing_cost_OSGI</name>
+>>>>>>> d88c90a7eeb64acde2e01c092f396b7dd57599fe
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
